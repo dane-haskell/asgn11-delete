@@ -1,8 +1,8 @@
 <?php
 // local
 define("DB_SERVER", "localhost");
-define("DB_USER", "sally");
-define("DB_PASS", "somePa55word");
+define("DB_USER", "suzy");
+define("DB_PASS", "thisisaguestpassword");
 define("DB_NAME", "salamanders");
 
 // Webhost
